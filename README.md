@@ -4,9 +4,9 @@ Programming assignments from all courses in the Coursera [Natural Language Proce
 
 ## Credits
 
-This repo contains my work for this specialization. The code base, quiz questions and diagrams are taken from the [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing).
+This repo contains all my work, for example code and note for this NLP specialization. The code base and diagrams are taken from the [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing). 
 
-## Courses
+## Courses List
 
 The [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) on Coursera contains four courses:
 
@@ -15,7 +15,7 @@ The [Natural Language Processing Specialization](https://www.coursera.org/specia
 - Course 3: [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp)
 - Course 4: [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
 
-## Specialization Info
+## Specialization Background
 
 - Natural Language Processing (NLP) uses algorithms to understand and manipulate human language. This technology is one of the most broadly applied areas of machine learning. As AI continues to expand, so will the demand for professionals skilled at building models that analyze speech and language, uncover contextual patterns, and produce insights from text and audio.
 
@@ -42,10 +42,18 @@ Enjoy!
 
   - **Week 1**
     - Assignment: 
-      - [Sentiment Analysis with Logistic Regression](*)
+      - Sentiment Analysis with Logistic Regression
     - Labs: 
-      - [Natural language Preprocessing](*)
-      - [Visualizing word frequencies](*)
-      - [Visualizing tweets and Logistic Regression models](*)
+      - Natural language Preprocessing
+      - Visualizing word frequencies
+      - Visualizing tweets and Logistic Regression models
     - My notebook
       - [Notion](https://www.notion.so/W1-Logistic-Regression-ebb0b02d402046b7ac78ce3f2f7d69d4)
+
+  - **Week 2**
+    - Assignment:
+      - Naive Bayes
+    - Labs:
+      - Visualizing likelihoods and confidence ellipsese
+    - My notebook
+      - [Notion](https://www.notion.so/W2-Naive-Bays-fbf92dc5563d469a844da1641af0a129)
